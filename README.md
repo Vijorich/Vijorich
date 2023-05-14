@@ -4,6 +4,6 @@
  <img alt="Codewars kyu" src="https://www.codewars.com/users/Vijorich/badges/large" />
 </a>
 
-![LeetCode Stats](https://leetcode.card.workers.dev/Vijorich?theme=nord&font=source_code_pro&extension=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Vijorich?theme=nord&font=M%20PLUS%201&ext=heatmap)
 
 
