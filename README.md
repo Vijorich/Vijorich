@@ -1,9 +1,5 @@
-### Hi there 👋
-- 🌱 I’m currently learning C#
-<a href="https://www.codewars.com/users/Vijorich" target="_blank">
- <img alt="Codewars kyu" src="https://www.codewars.com/users/Vijorich/badges/large" />
-</a>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vijorich&theme=transparent)
+
+![Codewars stats](https://github.r2v.ch/codewars?user=Vijorich&hide_clan=true&top_languages=true&theme=default)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Vijorich?theme=nord&font=M%20PLUS%201&ext=heatmap)
-
-
