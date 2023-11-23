@@ -1,5 +1,9 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vijorich&theme=transparent)
+<h1 align="center">Hi 👋, I'm Viktor Antonov</h1>
 
-![Codewars stats](https://github.r2v.ch/codewars?user=Vijorich&hide_clan=true&top_languages=true&theme=default)
+- 🌱 I’m currently learning **.NET**
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Vijorich?theme=nord&font=M%20PLUS%201&ext=heatmap)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dotnet/brand/main/logo/dotnet-logo.svg" alt=".NET" width="40" height="40"/>
+</a> </p>
